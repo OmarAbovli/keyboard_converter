@@ -12,8 +12,7 @@
 
 ---
 
-## 🖼️ صورة من البرنامج
-(تقدر تضيف Screenshot هنا 👀)
+
 
 ---
 
@@ -32,5 +31,4 @@
 ```bash
 git clone https://github.com/OmarAbovli/keyboard_converter.git
 cd keyboard_converter
-pip install -r requirements.txt
 python keyboard_converter.py
