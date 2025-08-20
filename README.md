@@ -17,8 +17,8 @@
 ---
 
 ## 🚀 طريقة التشغيل
-1. نزّل الملف التنفيذي من هنا:  
-   👉 [Download keyboard_converter.exe](https://github.com/OmarAbovli/keyboard_converter/blob/master/dist/keyboard_converter.exe)
+1. نزّل الملف التنفيذي"EXE" من هنا:  
+   👉 [Download keyboard_converter.exe](https://github.com/OmarAbovli/keyboard_converter/blob/master/dist)
 
 2. افتح البرنامج، واكتب النص الغلط في المربع الأول.
 3. دوس "⚡ تحويل النص".
